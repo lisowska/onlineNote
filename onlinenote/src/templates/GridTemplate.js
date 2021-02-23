@@ -56,7 +56,7 @@ GridTemplate.propTypes = {
 };
 
 GridTemplate.defaultProps = {
-  pageType: 'none',
+  pageType: 'notes',
 };
 
 export default GridTemplate;

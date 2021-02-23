@@ -4,7 +4,7 @@ const Button = styled.button`
   padding: 0;
   /* background-color: ${({ color }) => color || 'hsl(49, 100%, 58%)'}; */
   /* background-color: ${(props) => props.theme.primary}; */
-  background-color: ${({ theme }) => theme.note};
+  background-color: ${({ theme }) => theme.notes};
   /* width: ${({ width }) => width || '220px'}; */
   width: 220px;
   height: 47px;
